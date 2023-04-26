@@ -36,7 +36,7 @@ This repository contains the following tools:
 
 ## Trivia
 
-The Action Replay / Gameshark cheating devices is an instance of a cartridge
+The Action Replay / Gameshark cheating device is an instance of a cartridge
 making use of the Debugging and Communication System (DACS) of the Gameboy
 Advance hardware as described by
 [Martin Korth](https://problemkaputt.de/gbatek.htm#gbacartbackupdacs). The DACS
